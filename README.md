@@ -14,7 +14,7 @@ Light Sensor - Pin 39
 
 RFID Module (MFRC522) - SS_PIN: 5, RST_PIN: 25
 
-Wi-Fi Connectivity (Sends data to http://192.168.254.145:3000/sensor-data)
+Wi-Fi Connectivity (Sends data to DesiredIp/sensor-data)
 
 2. Control Node (ESP32-Based Remote Control System)
 
